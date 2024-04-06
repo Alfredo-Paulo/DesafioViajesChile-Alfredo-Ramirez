@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/* Diferente tipografia para títulos */
+.titulo{
+    font-family: 'Reggae One', cursive;
+}
+
+.logo{
+    width: 2rem;
+}
+
+/* Card */
+.tarjeta{
+    width: 16rem;
+}
+
+/* Formularios */
+.contenedor-formulario{
+    height:30rem;
+}
+.ancho-formulario{
+    max-width:40rem;
+}
+
+/* Footer */
+footer{
+    height:15rem;
+}
+
+footer h2{
+    font-size:2.5rem;
+    font-weight: bold;
+}
